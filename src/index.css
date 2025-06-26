@@ -216,8 +216,8 @@ header {
 
 /* From Uiverse.io by adamgiebl */
 .card {
-  width: 195px;
-  height: 270px;
+  width: 200px;
+  height: 290px;
   border-radius: 20px;
   padding: 2px;
   margin: 2em;
@@ -499,8 +499,8 @@ textarea.contact-inputs {
 /* Country Page  */
 /* From Uiverse.io by martinval9 */
 .cardss {
-  width: 220px;
-  height: 280px;
+  width: 280px;
+  height: 300px;
   background: rgb(40, 40, 55);
   background: linear-gradient(344deg, rgba(40, 40, 55, 1) 0%, rgba(16, 16, 18, 1) 50%);
   box-shadow: 4px 6px 14px #00000036;
@@ -508,6 +508,7 @@ textarea.contact-inputs {
   color: #F9F9F9;
   padding: 16px;
   transition: all .3s;
+  /* margin: 0; */
 }
 
 .cardss:hover {
