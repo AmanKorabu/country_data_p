@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": 1400000000,
+    "interestingFact": "India is the world's largest democracy.",
+    "flag": "https://flagcdn.com/w320/in.png"
+  },
+  {
+    "id": 2,
+    "countryName": "United States",
+    "capital": "Washington, D.C.",
+    "population": 331000000,
+    "interestingFact": "The U.S. has the world's largest economy by GDP.",
+    "flag": "https://flagcdn.com/w320/us.png"
+  },
+  {
+    "id": 3,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": 125800000,
+    "interestingFact": "Japan has the highest life expectancy in the world.",
+    "flag": "https://flagcdn.com/w320/jp.png"
+  },
+  {
+    "id": 4,
+    "countryName": "Brazil",
+    "capital": "Brasília",
+    "population": 213000000,
+    "interestingFact": "Brazil is home to the Amazon rainforest, the largest in the world.",
+    "flag": "https://flagcdn.com/w320/br.png"
+  },
+  {
+    "id": 5,
+    "countryName": "Germany",
+    "capital": "Berlin",
+    "population": 83000000,
+    "interestingFact": "Germany is known for its engineering and car manufacturing.",
+    "flag": "https://flagcdn.com/w320/de.png"
+  },
+  {
+    "id": 6,
+    "countryName": "France",
+    "capital": "Paris",
+    "population": 67407241,
+    "interestingFact": "The Eiffel Tower in Paris was once the tallest man-made structure in the world.",
+    "flag": "https://flagcdn.com/w320/fr.png"
+  },
+  {
+    "id": 7,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": 25700000,
+    "interestingFact": "Australia is the only country that is also a continent.",
+    "flag": "https://flagcdn.com/w320/au.png"
+  },
+  {
+    "id": 8,
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "population": 38000000,
+    "interestingFact": "Canada has the longest coastline in the world.",
+    "flag": "https://flagcdn.com/w320/ca.png"
+  },
+  {
+    "id": 9,
+    "countryName": "Russia",
+    "capital": "Moscow",
+    "population": 146000000,
+    "interestingFact": "Russia is the largest country by land area in the world.",
+    "flag": "https://flagcdn.com/w320/ru.png"
+  },
+  {
+    "id": 10,
+    "countryName": "South Africa",
+    "capital": "Pretoria",
+    "population": 60000000,
+    "interestingFact": "South Africa has three capital cities: Pretoria, Cape Town, and Bloemfontein.",
+    "flag": "https://flagcdn.com/w320/za.png"
+  }
+]
