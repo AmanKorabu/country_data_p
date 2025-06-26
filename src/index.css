@@ -129,10 +129,11 @@ header {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 1);
     border-radius: 2em;
   }
-  .compo{
+
+  .compo {
     margin: 0;
-  display: flex;
-  gap: 20px;
+    display: flex;
+    gap: 20px;
   }
 
   .navbar-grid ul {
@@ -228,7 +229,8 @@ header {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-
+  overflow: hidden;
+  text-overflow: ellipsis
 }
 
 .card__content {
@@ -238,8 +240,7 @@ header {
   height: 100%;
   padding: 0.5rem;
   justify-content: center;
-  overflow: hidden;
-  text-overflow: ellipsis
+
 }
 
 .span {
@@ -513,11 +514,13 @@ textarea.contact-inputs {
   margin-top: -30px;
   cursor: pointer;
 }
-.compo{
+
+.compo {
   display: flex;
   justify-content: space-between;
   margin: 1em;
 }
+
 .country-sectionCards ul {
   display: flex;
   flex-wrap: wrap;
