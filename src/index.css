@@ -129,6 +129,11 @@ header {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 1);
     border-radius: 2em;
   }
+  .compo{
+    margin: 0;
+  display: flex;
+  gap: 20px;
+  }
 
   .navbar-grid ul {
 
@@ -507,7 +512,11 @@ textarea.contact-inputs {
   margin-top: -30px;
   cursor: pointer;
 }
-
+.compo{
+  display: flex;
+  justify-content: space-between;
+  margin: 1em;
+}
 .country-sectionCards ul {
   display: flex;
   flex-wrap: wrap;

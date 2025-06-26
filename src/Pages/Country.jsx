@@ -35,7 +35,10 @@ function Country() {
   };
 
   return (
+    <>
     <section className="country-sectionCards">
+      <div className="compo">
+
       <SearchFilter search={search} setSearch={setSearch} filter={filter} setFilter={setFilter} />
 
       <div className="select-wrapper">
@@ -53,6 +56,7 @@ function Country() {
             0s-12.5 32.8 0 45.3l192 192z"/>
         </svg>
       </div>
+            </div>
 
       <ul>
         {filteredCountries.map((country) => (
@@ -65,7 +69,7 @@ function Country() {
                 width="100px"
                 className="flagss"
                 alt={country.name.common}
-              />
+                />
               <p><span className="span">Capital: </span>{country.capital?.[0] || 'N/A'}</p>
               <p><span className="span">Region: </span>{country.region}</p>
               <p><span className="span">Population: </span>{country.population?.toLocaleString() || 'N/A'}</p>
@@ -88,7 +92,8 @@ function Country() {
           </div>
         ))}
       </ul>
-    </section>
+        </section>
+        </>
   );
 }
 

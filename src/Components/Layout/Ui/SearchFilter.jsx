@@ -7,7 +7,7 @@ function SearchFilter({search,setSearch}) {
   };    
   return (
     <form className="form">
-    <label for="search">
+    <label htmlFor="search">
         <input className="input" type="text" value={search} onChange={hndlInputchange} placeholder="Search twitter" id="search" />
         <div className="fancy-bg"></div>
         <div className="search">
